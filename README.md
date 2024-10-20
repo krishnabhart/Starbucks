@@ -1,2 +1,3 @@
 # Starbucks
-This is my first git repository
+This is my first git repository.
+Authour - Krishna Bharti
